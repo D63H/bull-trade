@@ -1,0 +1,10 @@
+{
+  "name": "bulldesk",
+  "description": "Bull Desk: a seven-role Webull trading desk. Research, risk, execution and review; sandbox first; every order behind approval by ticket id.",
+  "version": "1.1.0",
+  "author": {"name": "Bull Desk port contributors"},
+  "homepage": "https://github.com/galleonlabs/hypergrok-trading-desk",
+  "repository": "https://github.com/galleonlabs/hypergrok-trading-desk",
+  "license": "MIT",
+  "keywords": ["webull", "trading-desk", "agents", "grok-bot", "agent-skills"]
+}

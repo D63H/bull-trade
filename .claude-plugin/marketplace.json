@@ -1,0 +1,21 @@
+{
+  "name": "bulldesk",
+  "owner": {"name": "Bull Desk port contributors"},
+  "metadata": {
+    "description": "Webull trading desk roles and skills for Claude Code and Cowork",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "bulldesk",
+      "source": "./",
+      "description": "Turn your agent into a 7-role Webull trading desk: research, risk, execution and review.",
+      "version": "1.1.0",
+      "author": {"name": "Bull Desk port contributors"},
+      "homepage": "https://github.com/galleonlabs/hypergrok-trading-desk",
+      "repository": "https://github.com/galleonlabs/hypergrok-trading-desk",
+      "license": "MIT",
+      "keywords": ["webull", "trading-desk", "agents"]
+    }
+  ]
+}

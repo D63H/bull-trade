@@ -1,0 +1,10 @@
+{
+  "name": "bulldesk",
+  "version": "1.1.0",
+  "description": "Bull Desk: Webull trading desk roles and skills for Grok Bot and Grok Build.",
+  "author": {"name": "Bull Desk port contributors"},
+  "homepage": "https://github.com/galleonlabs/hypergrok-trading-desk",
+  "repository": "https://github.com/galleonlabs/hypergrok-trading-desk",
+  "license": "MIT",
+  "keywords": ["webull", "trading-desk", "agents", "grok-bot"]
+}

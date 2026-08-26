@@ -1,0 +1,18 @@
+{
+  "name": "bulldesk",
+  "description": "Webull trading desk for Grok Build",
+  "owner": {"name": "Bull Desk port contributors"},
+  "plugins": [
+    {
+      "name": "bulldesk",
+      "description": "Turn Grok Build into a 7-role Webull trading desk: research, risk, execution and review.",
+      "category": "development",
+      "source": {"type": "local", "path": "./"},
+      "homepage": "https://github.com/galleonlabs/hypergrok-trading-desk",
+      "keywords": ["bulldesk", "webull", "trading desk", "grok bot"],
+      "version": "1.1.0",
+      "author": {"name": "Bull Desk port contributors"},
+      "tags": ["trading", "webull", "agents"]
+    }
+  ]
+}
