@@ -10,7 +10,7 @@ Bull Desk is a port of [HyperGrok](https://github.com/galleonlabs/hypergrok-trad
 
 Paste this to any Grok Bot conversation (swap in your repository URL, or attach this repo as a zip instead):
 
-> Set up the Bull Desk from https://github.com/&lt;your-username&gt;/bull-desk. Clone it to /workspace/bulldesk and follow SETUP.md from top to bottom: create the seven Bots and the Trading Floor group chat, install the sixteen skills, and finish with the receipt it asks for. Setup is read-only: no keys, no orders, sandbox by default.
+> Set up the Bull Desk from https://github.com/D63H/bull-desk. Clone it to /workspace/bulldesk and follow SETUP.md from top to bottom: create the seven Bots and the Trading Floor group chat, install the sixteen skills, and finish with the receipt it asks for. Setup is read-only: no keys, no orders, sandbox by default.
 
 That is the whole install. The desk starts as a research desk; add sandbox (paper) credentials when you want to practise with play money, and live credentials only after the written go-live gate in [`docs/GO-LIVE.md`](docs/GO-LIVE.md).
 
